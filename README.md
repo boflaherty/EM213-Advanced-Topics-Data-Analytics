@@ -1,5 +1,4 @@
-# EM213-Advanced-Topics-Data-Analytics
-Course work for Advanced Topics Data Analytics (EM213) @ Tufts in Fall 2021.
+# data200_datascienceresumes
+A collection of data science resumes for the DATA-200 course. 
 
-Connection contains:
-1. An example markdown file capturing my resume.
+Inspired by Eric Scott's data science resume sample and Yihui's **pagedown** package. Thanks to you both! 

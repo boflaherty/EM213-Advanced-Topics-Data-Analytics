@@ -1,6 +1,6 @@
 ---
 title: "Bret O'Flaherty"
-author: Bret R O'Flaherty
+author: Bret O'Flaherty
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -20,27 +20,21 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i>bret@oflaherty.me
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
+- <i class="fa fa-envelope"></i> bret@oflaherty.me
+- <i class="fa fa-github"></i> [github.com/boflaherty/](https://github.com/boflaherty/)
 - <i class="fa fa-phone"></i> +1 978-944-3955
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in running multivariate regression. 
+- Experienced in leading and managing large-scale **cost reduction initiatives**.
 
-- List your **key skills**, linked to the job description.
+- Experienced in Minitab, Simul8, SolidWorks, AutoCAD, Tableau, **PowerBI**.
 
-- Performing **data analysis**, with a focus on engineering models
+- Certified in **Earned Value Management**, Six Sigma, and Lean principles.
 
-- Experienced in **data communication** and client relations
-
-- Wrote production-level **R/Python/Stata/SQL** 
-
-- **Machine Learning** on cloud platforms (AWS)
-
-
+- Experienced in **change management** and team building.
 
 
 Disclaimer {#disclaimer}
@@ -55,10 +49,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Kyle Monahan {#title}
+Bret O'Flaherty {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Professional engineer seeking data-based roles in electronics manufacturing
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -66,73 +60,84 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+MS Candidate in Engineering Management
 
 Medford, MA
 
-2014--Current
+2017--Current
 
 
-### Undergraduate University
+### Northeastern University
 
-B.A. in Finance
+B.S. in Industrial Engineering
+<!-- Minor in Mathematics -->
+<!-- #Minor in Business Administration -->
 
-Troy, NY 
+Boston, MA 
 
-2008--2012
+2011--2016
 
 
 
-Research Experience {data-icon=flask}
+Professional Experience {data-icon=briefcase}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Senior Manufacturing Engineer
 
-Tufts University
+Raytheon Technologies, Raytheon Missiles & Defense
 
-Medford, MA
+Andover, MA
 
-2014--2019
+2021--Present
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+- Lead cross-functional teams responsbile for driving cost reduction intiatives in manufacturing activities of major product lines.
+- Build KPI dashboards and other visualizations to communicate status, trending, and potential areas of focus.
+
+
+### Industrial Engineer II
+
+Raytheon Company, Integrated Defense Systems
+
+Andover, MA
+
+2019--2021
+
+- Developed capacity analysis tools for understanding and communicating projected operation/machine utilization rates. 
+- Evaluated processes for automation in coordination with embedded automation team to ensure balanced lines.
+
+
+
+### Manufacturing Engineer I
+
+Raytheon Company, Integrated Defense Systems
+
+Andover, MA
+
+2016--2019
+
+- Supported approximately 75 union operators performing assembling activities across three shifts.
+- Led execution and installation of capital equipment projects totaling more than $2.5 million.
 
 
 
 Selected Project Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### DATA-200 Foundations of Data Analyics 
+### EM206 Introduction to Data Analytics
 
 Tufts University
 
 Medford, MA
 
-2016--2018
+2021--2021
 
 <!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+- Compiled and analyzed climate change data to predict whether current offset measures will achieve Paris Agreement objectives by 2050.
+- Utilized SARIMAX and other regression models in Python to understanding trending.
 <!--:::-->
 
 
-
-
-### Other project
-
-Tufts University
-
-Medford, MA
-
-2015 -- 2018
-
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
-
-
-
+<!--::: Commenting this out as it currently goes to two pages. Will continue to investigate after class.
 Selected Presentations {data-icon=comment-alt}
 --------------------------------------------------------------------------------
 ### DATA-200 Final Project
@@ -141,5 +146,5 @@ Presented a model for housing price detection, and summarized main results and a
 Medford, MA
 
 March 2019
-
+-->
 
